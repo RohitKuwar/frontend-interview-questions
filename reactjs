@@ -1,0 +1,51 @@
+## React Questions
+
+1. What is React and why is it efficient?
+1. How does React work internally?
+1. What is the most challenging task you handled in your project?
+1. How does Redux work, from installation to usage in a project?
+1. Have you used Redux Toolkit (RTK) or TanStack Query?
+1. What has been your experience with useCallback and useMemo in real projects?
+1. What is the role of the dependency array in useEffect?
+1. What is the Virtual DOM?
+1. Explain React Fiber.
+1. What is code splitting?
+1. Explain lazy loading.
+1. What is tree shaking?
+1. What causes UI jank?
+1. What are stale closures in React?
+1. Explain optimistic UI updates.
+1. Difference between CSR and SSR?
+1. What causes memory leaks in React apps?
+1. Explain repaint vs reflow vs compositing.
+1. How does React batching improve rendering?
+1. How do you optimize bundle size in React?
+1. How do you avoid unnecessary re-renders?
+1. Explain controlled vs uncontrolled components.
+1. How do you cancel ongoing API requests in React?
+1. Explain hydration mismatch and why it happens.
+1. How does React reconciliation work internally?
+1. How do you debug frontend performance bottlenecks?
+1. How would you optimize a slow-loading React app?
+1. How do you handle API retries and failures gracefully?
+1. Explain JWT authentication end-to-end with refresh flow.
+1. How do service workers improve frontend applications?
+1. How would you design state management for large applications?
+1. Explain accessibility best practices in frontend development.
+1. Difference between SSR, CSR, SSG, ISR, and hydration?
+1. How do you implement infinite scrolling efficiently?
+1. How do you monitor frontend applications in production?
+1. How would you optimize an eCommerce product listing page?
+1. Tell me about a difficult production bug you solved recently.
+1. How would you architect a scalable frontend application?
+1. Write a React component that fetches data from an API and displays it in a table.
+1. What is the difference between state and props in React?
+1. Explain React Hooks and when you would use useEffect vs useLayoutEffect.
+1. How would you optimize a React app for performance?
+1. What are Web Components, and how do they differ from React components?
+1. Explain the Virtual DOM and how React uses it to improve performance.
+1. How would you design a real-time chat application using React and WebSocket?
+1. Explain the architecture of a frontend-heavy web application you built.
+1. How do you handle API versioning and inconsistent response formats in your frontend app?
+1. Explain how you would measure and improve frontend performance (e.g., page load, rendering).
+1. How would you design a component library for reuse across multiple projects?
